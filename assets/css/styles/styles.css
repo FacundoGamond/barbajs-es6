@@ -1,0 +1,17 @@
+section{
+    height: 100vh;
+    background-color: antiquewhite;
+    opacity: 0;
+}
+
+section:nth-child(2){
+    background-color: aquamarine;
+}
+
+section:nth-child(3){
+    background-color: burlywood;
+}
+
+.m-hero{
+    opacity: 1;
+}
